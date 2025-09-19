@@ -15,3 +15,20 @@ I built a customer segmentation model using K-Means clustering, which groups cus
 4. K-Means Clustering: Implemented K-Means clustering with the optimal number of clusters.
 5. Visualization: Visualized clusters using scatter plots and pair plots to understand segment characteristics.
 
+# Technologies Used:-
+- Python: Programming language.
+- Scikit-learn: For K-Means clustering and scaling.
+- Matplotlib/Seaborn: For data visualization.
+
+# Outcome:-
+- Customer Segments: Identified groups based on behavior.
+- Visual Insights: Helps in understanding segment characteristics.
+
+# Future Enhancements:-
+- More Features: Add additional customer data.
+- Other Algorithms: Compare with hierarchical clustering.
+- Real-World Application: Apply to actual customer datasets.
+
+- Explore other clustering techniques?
+- Apply this to a real dataset?
+- Enhance visualization for better insights?
